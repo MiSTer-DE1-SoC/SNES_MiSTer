@@ -1,6 +1,6 @@
 //
 // sdram.v
-// This version issues refresh only when 8bit channel reads the same 16bit word 2 times
+// This version issues refresh only when 8bit channel reads the same 16bit words 2 times
 //
 // sdram controller implementation
 // Copyright (c) 2018 Sorgelig
