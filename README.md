@@ -1,4 +1,4 @@
-# SNES for DE1-SoC of MiSTer.
+# SNES for Altera DE1-SoC FPGA of MiSTer.
 
 This is the port of SNES MiSTer Core and [srg320's FpgaSnes](https://github.com/srg320/FpgaSnes) core.
 
